@@ -1,0 +1,4 @@
+Dr. Suess, 5.00, 1
+Geronimo Stilton #18, 9.99, 1
+Charlotte's Web, 11.99, 1
+Great Gatsby, 13.99, 1
